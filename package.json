@@ -15,7 +15,7 @@
 		"start": "node dist"
 	},
 	"dependencies": {
-		"esbuild": "^0.17.19"
+		"esbuild": "^0.25.0"
 	},
 	"devDependencies": {
 		"@types/node": "^20.2.3"
